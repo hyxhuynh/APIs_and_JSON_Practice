@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJi7U3ptc2cBiijESq0sZ/9uQFggZXvhZtwuyfh8x6+9+jfaKpnCcb2DRTchQ8V0729m0QXqz7miMqcH7Pp9sw==",
+  "success": true,
+  "projectFilePath": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyxhu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

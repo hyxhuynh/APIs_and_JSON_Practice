@@ -1,0 +1,17 @@
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\bin\Debug\net8.0\APIs_and_JSON_Practice.exe
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\bin\Debug\net8.0\APIs_and_JSON_Practice.deps.json
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\bin\Debug\net8.0\APIs_and_JSON_Practice.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\bin\Debug\net8.0\APIs_and_JSON_Practice.dll
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\bin\Debug\net8.0\APIs_and_JSON_Practice.pdb
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.csproj.AssemblyReference.cache
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and.853DF2F4.Up2Date
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.dll
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\refint\APIs_and_JSON_Practice.dll
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.pdb
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\APIs_and_JSON_Practice.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\APIs_and_JSON_Practice\APIs_and_JSON_Practice\obj\Debug\net8.0\ref\APIs_and_JSON_Practice.dll
