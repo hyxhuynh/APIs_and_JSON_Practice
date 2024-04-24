@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A340912-C8FE-4D4C-8D55-00DC99374CFA}|APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\apis_and_json_practice\\apis_and_json_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A340912-C8FE-4D4C-8D55-00DC99374CFA}|APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj|solutionrelative:apis_and_json_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A340912-C8FE-4D4C-8D55-00DC99374CFA}|APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\apis_and_json_practice\\apis_and_json_practice\\ronvskayneapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A340912-C8FE-4D4C-8D55-00DC99374CFA}|APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj|solutionrelative:apis_and_json_practice\\ronvskayneapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A340912-C8FE-4D4C-8D55-00DC99374CFA}|APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\apis_and_json_practice\\apis_and_json_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A340912-C8FE-4D4C-8D55-00DC99374CFA}|APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj|solutionrelative:apis_and_json_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A340912-C8FE-4D4C-8D55-00DC99374CFA}|APIs_and_JSON_Practice\\APIs_and_JSON_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\apis_and_json_practice\\apis_and_json_practice\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "APIs_and_JSON_Practice\\OpenWeatherMapAPI.cs",
               "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice\\OpenWeatherMapAPI.cs",
               "RelativeToolTip": "APIs_and_JSON_Practice\\OpenWeatherMapAPI.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T15:44:29.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RonVSKayneAPI.cs",
               "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice\\RonVSKayneAPI.cs",
               "RelativeDocumentMoniker": "APIs_and_JSON_Practice\\RonVSKayneAPI.cs",
-              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice\\RonVSKayneAPI.cs",
-              "RelativeToolTip": "APIs_and_JSON_Practice\\RonVSKayneAPI.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAASAAAA",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice\\RonVSKayneAPI.cs*",
+              "RelativeToolTip": "APIs_and_JSON_Practice\\RonVSKayneAPI.cs*",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T14:34:03.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice\\Program.cs",
               "RelativeDocumentMoniker": "APIs_and_JSON_Practice\\Program.cs",
               "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\APIs_and_JSON_Practice\\APIs_and_JSON_Practice\\Program.cs",
               "RelativeToolTip": "APIs_and_JSON_Practice\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowBAAAAA8AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T14:27:25.454Z",
               "EditorCaption": ""

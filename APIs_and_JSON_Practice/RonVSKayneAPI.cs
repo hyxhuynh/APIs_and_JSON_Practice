@@ -9,26 +9,35 @@ namespace APIs_and_JSON_Practice
 {
     public class RonVSKayneAPI
     {
-
-
-        HttpClient client = new HttpClient();
-        public string RonSwanson()
+        public static void RonSwanson()
         {
+            HttpClient client = new HttpClient();
             string ronURL = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
             string ronResponse = client.GetStringAsync(ronURL).Result;
 
             JArray ronQuote = JArray.Parse(ronResponse);
 
-            return ronQuote[0].ToString();
+            Console.WriteLine($"Ron Swanson: {ronQuote[0]}");
         }
-        public string Kayne()
+        public static void Kayne()
         {
+            HttpClient client = new HttpClient();
             string kayneURL = "https://api.kanye.rest/";
             string kayneResponse = client.GetStringAsync(kayneURL).Result;
 
             JObject kayneQuote = JObject.Parse(kayneResponse);
 
-            return kayneQuote["quote"].ToString();
+            Console.WriteLine($"Kayne: {kayneQuote["quote"]}");
+        }
+
+        public static void Conversation()
+        {
+            for (int i = 0; i < 5; i++)
+            {
+                RonVSKayneAPI.RonSwanson();
+                RonVSKayneAPI.Kayne();
+                Console.WriteLine();
+            }
         }
     }
 }
